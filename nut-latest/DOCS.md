@@ -17,7 +17,7 @@ For more background on NUT, see the ["Network UPS Tools" Add-on docs][addon-base
 
    Or by going to "Settings" -> "Add-ons" -> "Add-on store" (bottom right)
    -> Menu button (three dots, top right) -> "Repositories"
-   -> Add https://github.com/PaulSD/addons-nut -> "Close" -> Search for "nut"
+   -> Add https://github.com/Hunter32R/addons-nut -> "Close" -> Search for "nut"
    -> "Network UPS Tools (Latest version)" -> "Install".
 
 1. Copy the Add-on config from the "Network UPS Tools" Add-on to the
@@ -97,13 +97,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [addon-inst-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[addon-inst]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=fdc8749d_nut-latest&repository_url=https%3A%2F%2Fgithub.com%2FPaulSD%2Faddons-nut
+[addon-inst]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=52935ffc_nut-latest&repository_url=https%3A%2F%2Fgithub.com%2FHunter32R%2Faddons-nut
 [addon-base]: https://github.com/hassio-addons/addon-nut
 [addon-base-docs]: https://github.com/hassio-addons/repository/blob/main/nut/DOCS.md
 [addon-base-docs-conf]: https://github.com/hassio-addons/repository/blob/main/nut/DOCS.md#configuration
 [addon-base-docs-help]: https://github.com/hassio-addons/repository/blob/main/nut/DOCS.md#support
 [nut-ha-docs]: https://www.home-assistant.io/integrations/nut/
 [nut-help]: https://networkupstools.org/support.html
-[github-issue]: https://github.com/PaulSD/addons-nut/issues
+[github-issue]: https://github.com/Hunter32R/addons-nut/issues
 [paulsd]: https://github.com/PaulSD
-[contributors]: https://github.com/PaulSD/addons-nut/graphs/contributors
+[contributors]: https://github.com/Hunter32R/addons-nut/graphs/contributors
